@@ -26,7 +26,7 @@ Each notebook corresponds to a specific week or topic covered during the course:
 5. **`5_Classifying_Meanings_and_Documents.ipynb`**  
    - Document classification and sentiment analysis.
 
-6. **`6_Programming_Large_Language_Models_with_Language_Data.ipynb`**  
+6. **`6_Programming_Large_Language_Models_with_Language.ipynb`**  
    - Using large language models (e.g., GPT) for tasks such as text generation and summarization.
 
 7. **`7_Prediction_and_Causal_Inference.ipynb`**  
